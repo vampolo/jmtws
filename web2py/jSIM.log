@@ -1,0 +1,25 @@
+DEBUG [main]- Sim model definition path: /tmp/tempfileSim3277447066384954558.jsim 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- jSIM correctly initialized with simulation seed = 71224814 
+DEBUG [main]- Measure M/M/1_Queue Length finished. Mean value: 4.299050332580532 Success = true 
+INFO  [main]- Model /tmp/tempfileSim3277447066384954558.jsim solved by jSIM in 2.0 seconds 
+DEBUG [main]- Sim model definition path: /tmp/tempfileSim3781395511230092598.jsim 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- jSIM correctly initialized with simulation seed = 1498047359 
+DEBUG [main]- Measure M/M/1_Queue Length finished. Mean value: 4.301743626436223 Success = true 
+INFO  [main]- Model /tmp/tempfileSim3781395511230092598.jsim solved by jSIM in 2.0 seconds 
+DEBUG [main]- Sim model definition path: /tmp/tempfileSim6275007053968758114.jsim 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- jSIM correctly initialized with simulation seed = 2028471911 
+DEBUG [main]- Measure M/M/1_Queue Length finished. Mean value: 4.275132636271985 Success = true 
+INFO  [main]- Model /tmp/tempfileSim6275007053968758114.jsim solved by jSIM in 2.0 seconds 
+DEBUG [main]- Sim model definition path: /tmp/tempfileSim784407059728572398.jsim 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- jSIM correctly initialized with simulation seed = 1792461632 
+DEBUG [main]- Measure M/M/1_Queue Length finished. Mean value: 4.295559979779754 Success = true 
+INFO  [main]- Model /tmp/tempfileSim784407059728572398.jsim solved by jSIM in 3.0 seconds 
+DEBUG [main]- Sim model definition path: /tmp/tempfileSim5725954061729645567.jsim 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- jSIM correctly initialized with simulation seed = 831759797 
+DEBUG [main]- Measure M/M/1_Queue Length finished. Mean value: 4.3049339815667285 Success = true 
+INFO  [main]- Model /tmp/tempfileSim5725954061729645567.jsim solved by jSIM in 2.0 seconds 
